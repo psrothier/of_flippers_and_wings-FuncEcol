@@ -1,4 +1,4 @@
-Data and Codes for Rothier et al, Functional Ecology.
+Data and Codes from Rothier et al. (2025) Functional Ecology.
 Of flippers and wings: the locomotor environment as a driver of the evolution of forelimb morphological diversity in mammals.
 
 mytree.nex - pruned MCC tree from Upham et al 2019. Plos Biol. DOI: https://doi.org/10.1371/journal.pbio.3000494
@@ -7,4 +7,5 @@ Subset1_Disparity_final_v2.R - codes for estimating disparity and phenotypic con
 Subset2_Disparity_final_v2.R - codes for estimating disparity of individual bones
 Subset2_Convergence_final_v2.R - codes for estimating phenotypic convergence of individual bones
 Graphs_MS_final_v2.R - codes to produce the manuscript figures
+
 
